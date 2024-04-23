@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Hanan
+weibo_username: yanghananan
 zhihu_username: Hanan
 github_username: yanghanGG
 twitter_username: huxpro
